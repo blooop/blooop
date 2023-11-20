@@ -1,19 +1,12 @@
 ### Hi there 👋
 
-I'm a robotics research engineer with an interest in the design of robots and the kinematics and planning related to robot morphology.  I am interested in high dimensional data visulisation as a tool to guide research and development wrote the library bencher to make the process more streamlined.
+I'm a robotics research engineer with an interest in the design of robots, specially the kinematics and planning related to robot morphology.  I am interested in high dimensional data visualisation as a tool to guide research and development, which is why I wrote the library bencher to make the process more streamlined.
 
-Programming Languages
-- python
-- c++
-- c#
-- matlab
-- bash 
-- lua
-- latex
-- processing
-- arduino
+These are some technologies I use:
 
-Libraries/Frameworks
+[![My Skills](https://skillicons.dev/icons?i=python,arduino,bash,blender,cs,cpp,cmake,docker,eclipse,git,github,githubactions,jenkins,latex,linked,linux,lua,md,matlab,processing,py,ros,stackoverflow,unity,visualstudio,vscode)](https://skillicons.dev)
+
+Robotics Libraries/Frameworks
  - ROS1/ROS2
  - Curobo
  - Moveit
@@ -28,7 +21,7 @@ Simulators:
  - V-REP
  - Gazebo
 
-Data Processing and Vizulisation
+Data Processing and Visualisation
  - Pandas
  - Xarray
  - Param
