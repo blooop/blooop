@@ -8,7 +8,7 @@ These are some technologies I use:
 
 Robotics Libraries/Frameworks
  - ROS1/ROS2
- - Curobo
+ - [Curobo](https://curobo.org/)
  - Moveit
  - OMPL
  - Trajopt
