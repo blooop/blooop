@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a robotics research engineer with an interest in the design of robots, specially the kinematics and planning related to robot morphology.  I am interested in high dimensional data visualisation as a tool to guide research and development, which is why I wrote the library bencher to make the process more streamlined.
+I'm a robotics research engineer with an interest in the design and operation of autonomous robotic systems.  I am interested in high dimensional data visualisation as a tool to guide research and development, which is why I wrote the library bencher to make the process more streamlined.
 
 These are some technologies I use:
 
@@ -23,12 +23,13 @@ Simulators:
 
 Data Processing and Visualisation
  - Pandas
- - Xarray
- - Param
- - Holoviz
+ - [Xarray](https://docs.xarray.dev/en/stable/)
+ - [Param](https://param.holoviz.org/)
+ - [Holoviz](https://holoviz.org/)
  - Plotly
  - Bokeh
  - Matplotlib
+ - [vedo](https://vedo.embl.es/)
     
 
 <!--
