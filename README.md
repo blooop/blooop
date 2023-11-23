@@ -14,7 +14,7 @@ Robotics Libraries/Frameworks
  - Trajopt
  - Descartes
  - IKfast
- - XNA   
+ - trac_ik
    
 Simulators:
  - Pybullet
@@ -30,8 +30,30 @@ Data Processing and Visualisation
  - Bokeh
  - Matplotlib
  - [vedo](https://vedo.embl.es/)
+ - XNA
     
+Devops and tools:
+ - docker
+ - pylint
+ - ruff
+ - clang-format
+ - codecov
+ - sphinx
+ - jinja2
+ - cog
+ - xvfb
+ - devcontainers
+ - github actions
+ - dependabot
+ - 
 
+embedded:
+ - arduino
+ - esp32
+
+misc:
+  - mqtt
+    
 <!--
 **blooop/blooop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
