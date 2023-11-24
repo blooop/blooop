@@ -15,6 +15,10 @@ Robotics Libraries/Frameworks
  - Descartes
  - IKfast
  - trac_ik
+
+General:
+ - numpy
+ - eigen 
    
 Simulators:
  - Pybullet
@@ -31,7 +35,7 @@ Data Processing and Visualisation
  - Matplotlib
  - vtk
  - [vedo](https://vedo.embl.es/)
- - XNA
+ - XNA - 
 
 Optimisation
  - optuna
