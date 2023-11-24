@@ -53,15 +53,21 @@ Devops and tools:
  - xvfb
  - devcontainers
  - github actions
- - dependabot
- - 
+ - dependabot  
 
 embedded:
  - arduino
  - esp32
 
-misc:
-  - mqtt
+CAD:
+ - [CadQuery](https://github.com/CadQuery/cadquery)
+ - [Solvespace](https://solvespace.com/index.pl)
+ - Autodesk Inventor
+ - Siemens NX
+ - I-DEAS
+
+Comms:
+  - mqtt    
     
 <!--
 **blooop/blooop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
