@@ -67,7 +67,11 @@ CAD:
  - I-DEAS
 
 Comms:
-  - mqtt    
+  - mqtt
+
+Dabbled/Interesting in learning:
+ - Rust
+ - Julia
     
 <!--
 **blooop/blooop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
