@@ -29,6 +29,7 @@ Data Processing and Visualisation
  - Plotly
  - Bokeh
  - Matplotlib
+ - vtk
  - [vedo](https://vedo.embl.es/)
  - XNA
 
