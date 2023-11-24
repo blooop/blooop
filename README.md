@@ -47,6 +47,7 @@ Optimisation
     
 Devops and tools:
  - docker
+ - docker-compose
  - pylint
  - ruff
  - clang-format
