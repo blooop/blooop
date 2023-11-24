@@ -62,6 +62,7 @@ embedded:
 CAD:
  - [CadQuery](https://github.com/CadQuery/cadquery)
  - [Solvespace](https://solvespace.com/index.pl)
+ - [OpenSCAD](https://openscad.org/)
  - Autodesk Inventor
  - Siemens NX
  - I-DEAS
