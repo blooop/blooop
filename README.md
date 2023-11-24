@@ -31,6 +31,14 @@ Data Processing and Visualisation
  - Matplotlib
  - [vedo](https://vedo.embl.es/)
  - XNA
+
+Optimisation
+ - optuna
+ - scipy
+ - scikit-opt
+ - gpy_opt
+ - platlypus
+ - deap
     
 Devops and tools:
  - docker
