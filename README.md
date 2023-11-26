@@ -4,7 +4,7 @@ I'm a robotics research engineer with an interest in the design and operation of
 
 These are some technologies I use:
 
-[![My Skills](https://skillicons.dev/icons?i=python,arduino,bash,blender,cs,cpp,cmake,docker,eclipse,git,github,githubactions,jenkins,latex,linked,linux,lua,md,matlab,processing,py,ros,stackoverflow,unity,visualstudio,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,arduino,bash,blender,cs,cpp,cmake,docker,eclipse,git,github,githubactions,jenkins,latex,linked,linux,lua,md,matlab,processing,py,ros,stackoverflow,unity,visualstudio,vscode)](https://skillicons.dev).
 
 Robotics Libraries/Frameworks
  - ROS1/ROS2
