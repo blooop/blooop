@@ -35,7 +35,7 @@ Data Processing and Visualisation
  - Matplotlib
  - vtk
  - [vedo](https://vedo.embl.es/)
- - XNA - 
+ - XNA 
 
 Optimisation
  - optuna
@@ -78,6 +78,7 @@ Comms:
 Dabbled/Interesting in learning:
  - Rust
  - Julia
+ - Scheme
     
 <!--
 **blooop/blooop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
