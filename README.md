@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a robotics research engineer with an interest in the design and operation of autonomous robotic systems.  I am interested in high dimensional data visualisation as a tool to guide research and development, which is why I wrote the library bencher to make the process more streamlined.
+I'm a robotics research engineer with an interest in the design and operation of autonomous robotic systems.  I am interested in high dimensional data visualisation as a tool to guide research and development, which is why I wrote the library bencher to make the process more streamlined.  I have a unhealty obsession with [automation](https://xkcd.com/1319/)
 
 These are some technologies I use:
 
