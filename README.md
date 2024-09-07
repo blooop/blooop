@@ -2,6 +2,15 @@
 
 I'm a robotics research engineer with an interest in the design and operation of autonomous robotic systems.  I am interested in high dimensional data visualisation as a tool to guide research and development, which is why I wrote the library bencher to make the process more streamlined.  I have a unhealthy obsession with [automation](https://xkcd.com/1319/) but am getting better at abstaining where [appropriate](https://xkcd.com/1205/).
 
+### My Projects
+
+- [Bencher](https://github.com/dyson-ai/bencher) is a multidimensional plotting tool to make it easy to explore relationships between arbirary input and output variables
+- [rockerc](https://github.com/blooop/rockerc) is a wrapper of [rocker](https://github.com/osrf/rocker) that simplifies rocker commands by putting them in yaml files
+- [deps_rocker](https://github.com/blooop/deps_rocker) is a [rocker](https://github.com/osrf/rocker) extension that lets a user specify apt, pip, etc dependencies in a composable way
+- [pixi_rocker](https://github.com/blooop/pixi_rocker) is a [rocker](https://github.com/osrf/rocker) extension that installs the pixi dependency manager
+
+### Experience
+
 These are some technologies I use:
 
 [![My Skills](https://skillicons.dev/icons?i=python,arduino,bash,blender,cs,cpp,cmake,docker,eclipse,git,github,githubactions,jenkins,latex,linked,linux,lua,md,matlab,processing,py,ros,stackoverflow,unity,visualstudio,vscode)](https://skillicons.dev)
