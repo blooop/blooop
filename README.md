@@ -9,8 +9,9 @@ I'm a robotics research engineer with an interest in the design and operation of
 
 ### Rocker extension and related tooling
 - [template_rocker](https://github.com/blooop/template_rocker) is template for creating [rocker](https://github.com/osrf/rocker) extensions.
-- [deps_rocker](https://github.com/blooop/deps_rocker) is a [rocker](https://github.com/osrf/rocker) extension that lets a user specify apt, pip, etc dependencies in a composable way
-- [pixi_rocker](https://github.com/blooop/pixi_rocker) is a [rocker](https://github.com/osrf/rocker) extension that installs the [pixi](https://github.com/prefix-dev/pixi) dependency manager
+- [deps_rocker](https://github.com/blooop/deps_rocker) is a [rocker](https://github.com/osrf/rocker) extension that lets a user add apt, pip, etc dependencies in a composable way to existing docker images
+- [pixi_rocker](https://github.com/blooop/pixi_rocker) is a [rocker](https://github.com/osrf/rocker) extension that add the [pixi](https://github.com/prefix-dev/pixi) dependency manager to existing docker images
+- [lazygit_rocker](https://github.com/blooop/lazygit_rocker) is a [rocker](https://github.com/osrf/rocker) extension that adds [lazygit](https://github.com/prefix-dev/pixi) to existing docker images
 - [rockerc](https://github.com/blooop/rockerc) is a wrapper of [rocker](https://github.com/osrf/rocker) that simplifies rocker commands by putting them in yaml files
 - [rockervsc](https://github.com/blooop/rockervsc) is a minimal wrapper of [rocker](https://github.com/osrf/rocker) that launches and attached vscode when running a rocker command
 
