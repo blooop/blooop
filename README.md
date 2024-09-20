@@ -11,6 +11,7 @@ I'm a robotics research engineer with an interest in the design and operation of
 - [template_rocker](https://github.com/blooop/template_rocker) is template for creating [rocker](https://github.com/osrf/rocker) extensions.
 - [deps_rocker](https://github.com/blooop/deps_rocker) is a [rocker](https://github.com/osrf/rocker) extension that lets a user add apt, pip, etc dependencies in a composable way to existing docker images
 - [pixi_rocker](https://github.com/blooop/pixi_rocker) is a [rocker](https://github.com/osrf/rocker) extension that add the [pixi](https://github.com/prefix-dev/pixi) dependency manager to existing docker images
+- [palanteer_rocker](https://github.com/blooop/palanteer_rocker) is a [rocker](https://github.com/osrf/rocker) extension that add the [palanteer](https://github.com/dfeneyrou/palanteer) code profiler to existing docker images- 
 - [lazygit_rocker](https://github.com/blooop/lazygit_rocker) is a [rocker](https://github.com/osrf/rocker) extension that adds [lazygit](https://github.com/jesseduffield/lazygit) to existing docker images
 - [rockerc](https://github.com/blooop/rockerc) is a wrapper of [rocker](https://github.com/osrf/rocker) that simplifies rocker commands by putting them in yaml files
 - [rockervsc](https://github.com/blooop/rockervsc) is a minimal wrapper of [rocker](https://github.com/osrf/rocker) that launches and attached vscode when running a rocker command
@@ -20,6 +21,8 @@ I'm a robotics research engineer with an interest in the design and operation of
 These are some technologies I use:
 
 [![My Skills](https://skillicons.dev/icons?i=python,arduino,bash,blender,cs,cpp,cmake,docker,eclipse,git,github,githubactions,jenkins,latex,linked,linux,lua,md,matlab,processing,py,ros,stackoverflow,unity,visualstudio,vscode)](https://skillicons.dev)
+
+<!--
 
 Robotics Libraries/Frameworks
  - ROS1/ROS2
@@ -95,7 +98,7 @@ Dabbled/Interesting in learning:
  - Julia
  - Scheme
     
-<!--
+
 **blooop/blooop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
