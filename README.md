@@ -10,7 +10,9 @@ I'm a robotics research engineer with an interest in the design and operation of
 ### Rocker extension and related tooling
 - [template_rocker](https://github.com/blooop/template_rocker) is template for creating [rocker](https://github.com/osrf/rocker) extensions.
 - [deps_rocker](https://github.com/blooop/deps_rocker) is a [rocker](https://github.com/osrf/rocker) extension that lets a user add apt, pip, etc dependencies in a composable way to existing docker images
-- [pixi_rocker](https://github.com/blooop/pixi_rocker) is a [rocker](https://github.com/osrf/rocker) extension that add the [pixi](https://github.com/prefix-dev/pixi) dependency manager to existing docker images
+- [pixi_rocker](https://github.com/blooop/pixi_rocker) is a [rocker](https://github.com/osrf/rocker) extension that add the [pixi](https://github.com/prefix-dev/pixi) package manager to existing docker images
+- [conda_rocker](https://github.com/blooop/conda_rocker) is a [rocker](https://github.com/osrf/rocker) extension that add the [conda](https://github.com/conda/conda) package manager to existing docker images
+- [cargo_rocker](https://github.com/blooop/cargo_rocker) is a [rocker](https://github.com/osrf/rocker) extension that add the [cargo](https://github.com/rust-lang/cargo) package manaager to existing docker images
 - [palanteer_rocker](https://github.com/blooop/palanteer_rocker) is a [rocker](https://github.com/osrf/rocker) extension that add the [palanteer](https://github.com/dfeneyrou/palanteer) code profiler to existing docker images
 - [lazygit_rocker](https://github.com/blooop/lazygit_rocker) is a [rocker](https://github.com/osrf/rocker) extension that adds [lazygit](https://github.com/jesseduffield/lazygit) to existing docker images
 - [rockerc](https://github.com/blooop/rockerc) is a wrapper of [rocker](https://github.com/osrf/rocker) that simplifies rocker commands by putting them in yaml files
