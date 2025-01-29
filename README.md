@@ -5,7 +5,7 @@ I'm a robotics research engineer with an interest in the design and operation of
 ### My Projects
 
 ### Data visualisation
-- [Bencher](https://github.com/dyson-ai/bencher) is a multidimensional plotting tool to make it easy to explore relationships between arbirary input and output variables
+- [Bencher](https://github.com/blooop/bencher) is a multidimensional plotting tool to make it easy to explore relationships between arbirary input and output variables
 
 ### Rocker extension and related tooling
 - [template_rocker](https://github.com/blooop/template_rocker) is template for creating [rocker](https://github.com/osrf/rocker) extensions.
